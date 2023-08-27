@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02e1d5a8.css",
+    "main.js": "/static/js/main.89235b70.js",
+    "static/media/inria-sans-latin-400-normal.woff2": "/static/media/inria-sans-latin-400-normal.d2befd0551ae9091c752.woff2",
+    "static/media/inria-sans-latin-700-normal.woff2": "/static/media/inria-sans-latin-700-normal.44034aea3a6e7049464a.woff2",
+    "static/media/inria-sans-latin-400-normal.woff": "/static/media/inria-sans-latin-400-normal.e1cdd3a48a27b6f40e98.woff",
+    "static/media/inria-sans-latin-700-normal.woff": "/static/media/inria-sans-latin-700-normal.ec8fbab0a53c3df140fa.woff",
+    "static/media/inria-sans-latin-ext-400-normal.woff2": "/static/media/inria-sans-latin-ext-400-normal.f599c3027826df56f161.woff2",
+    "static/media/inria-sans-latin-ext-700-normal.woff2": "/static/media/inria-sans-latin-ext-700-normal.40b21b1801ed4b3871d2.woff2",
+    "static/media/inria-sans-latin-ext-400-normal.woff": "/static/media/inria-sans-latin-ext-400-normal.4b2dc136bcdeeec2361e.woff",
+    "static/media/inria-sans-latin-ext-700-normal.woff": "/static/media/inria-sans-latin-ext-700-normal.d4b307d24411ecb4ba5a.woff",
+    "index.html": "/index.html",
+    "main.02e1d5a8.css.map": "/static/css/main.02e1d5a8.css.map",
+    "main.89235b70.js.map": "/static/js/main.89235b70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e1d5a8.css",
+    "static/js/main.89235b70.js"
+  ]
+}
